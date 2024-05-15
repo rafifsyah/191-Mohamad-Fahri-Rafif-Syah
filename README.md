@@ -7,5 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Mohamad Fahri Rafif Syah
+
+gallery ku
+
+dashboard yang mengelola portofolio fotografer yang tersusun otomatis
 
  191 - Mohamad Fahri Rafif Syah
