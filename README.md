@@ -12,5 +12,3 @@ Mohamad Fahri Rafif Syah
 gallery ku
 
 dashboard yang mengelola portofolio fotografer yang tersusun otomatis
-
- 191 - Mohamad Fahri Rafif Syah
